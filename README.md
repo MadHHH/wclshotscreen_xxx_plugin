@@ -1,0 +1,2 @@
+# wclshotscreen_xxx_plugin
+xxxbot_plugin
